@@ -48,7 +48,7 @@ This lab is designed as a learning project and portfolio project. It shows not o
 
 ## Lab Roadmap
 
-### Phase 1: Azure Foundation
+### [Phase 1: Azure Foundation](docs/01-azure-foundation.md)
 In this phase, I learned the Azure portal layout and built the base environment for the lab. This included creating the resource group, virtual network, subnet, security settings, and Windows Server virtual machine.
 
 ### Phase 2: Windows Server VM Deployment
