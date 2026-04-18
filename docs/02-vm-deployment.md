@@ -44,11 +44,21 @@ I confirmed this phase was successful by:
 
 ## Screenshots
 - Azure VM overview page
+  <img width="1017" height="891" alt="Screenshot 2026-04-18 100112" src="https://github.com/user-attachments/assets/29dbe348-5df2-451f-bf67-103d497b22e8" />
+
 - Connect > RDP screen
+  <img width="1220" height="840" alt="Screenshot 2026-04-18 101709" src="https://github.com/user-attachments/assets/50baac50-dcfb-4c7d-87ab-a4ae5be27328" />
+
 - Downloaded RDP connection prompt
+  
 - Windows Server login screen
+   <img width="1908" height="923" alt="Screenshot 2026-04-18 101858" src="https://github.com/user-attachments/assets/7059f0bc-0f52-43a5-adf0-cf661e2413a0" />
 - Windows Server desktop after sign-in
+   <img width="1908" height="923" alt="Screenshot 2026-04-18 101858" src="https://github.com/user-attachments/assets/7059f0bc-0f52-43a5-adf0-cf661e2413a0" />
+   
 - Server Manager open on the VM
+ 
+
 
 ## Issues Encountered
 - [Document any issue here]
