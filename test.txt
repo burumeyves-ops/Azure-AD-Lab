@@ -1,0 +1,45 @@
+## Lab Roadmap
+
+- [Phase 1: Azure Foundation](docs/01-azure-foundation.md)
+
+
+# Phase 1: Azure Foundation
+
+## Objective
+Set up the base Azure environment for my IAM lab and create a Windows Server VM that I can manage remotely.
+
+## What I Built
+- Azure resource group
+- Virtual network and subnet
+- Windows Server VM
+- Remote Desktop connection to the VM
+
+## Why This Matters
+This phase is the foundation for the rest of the lab. I need a working Azure VM before I can install Active Directory Domain Services, test identity workflows, or build PowerShell automation.
+
+## Tools Used
+- Microsoft Azure portal
+- Windows Server VM
+- Remote Desktop Protocol (RDP)
+
+## Step-by-Step Notes
+1. Created a resource group.
+2. Created a virtual network and subnet.
+3. Created a Windows Server VM in Azure.
+4. Set up inbound RDP access.
+5. Connected to the VM using Remote Desktop.
+6. Verified that I could sign in successfully.
+
+## Screenshots
+- Azure portal resource group
+- VM creation page
+- VM overview page
+- RDP connection screen
+- Successful Windows Server login
+
+## Issues Encountered
+- [Write any problem here]
+- [Write how you fixed it here]
+
+## Key Learning
+I learned how Azure VM deployment works and how to connect securely to a Windows Server machine in the cloud.
