@@ -51,7 +51,7 @@ This lab is designed as a learning project and portfolio project. It shows not o
 ### - [Phase 1: Azure Foundation](./docs/01-azure-foundation.md)
 In this phase, I learned the Azure portal layout and built the base environment for the lab. This included creating the resource group, virtual network, subnet, security settings, and Windows Server virtual machine.
 
-### Phase 2: Windows Server VM Deployment
+### - [Phase 2: Windows Server VM Deployment] (./docs/02-windows-server-VM-deployment.md)
 In this phase, I connected to the VM using RDP, reviewed basic Windows Server management, and prepared the machine for Active Directory installation.
 
 ### Phase 3: Active Directory Domain Services
