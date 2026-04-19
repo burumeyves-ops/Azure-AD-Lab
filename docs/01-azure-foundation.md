@@ -16,7 +16,6 @@ This phase is the foundation for the rest of the lab. I need a working Azure VM 
 
 ## Step-by-Step Notes
 1. Created a resource group
-   Make sure that it's _ or else it won't connect
    <img width="1294" height="944" alt="Screenshot 2026-04-18 095116" src="https://github.com/user-attachments/assets/976ca063-9834-4e83-8897-1ee0dbdf8028" />
 
 3. Created a virtual network and subnet
